@@ -4,7 +4,7 @@ A first attempt on coding a static HTML/CSS page.
 
 ## **Tech**
 - HTML
-_ CSS
+- CSS
 
 ## **Main project purpose**
 The main topic purpose of this project is to familiarize with HTML Tags and 
